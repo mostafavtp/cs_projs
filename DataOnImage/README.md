@@ -2,7 +2,7 @@
 This program save text data or file data on image.
 Saved image format is PNG because it must be lossless.
 I save one bit per color. One bit in red, one bit in blue and one bit in green. So I save 3 bits in each pixel.
-Then for example to save 1MB data, you need more than 9 Mpixel image.
+Then for example to save 1MB data, you need more than 3 Mpixel image.
 The result image quality is good and it does not change noticeable.
 
 It is simple to use:
