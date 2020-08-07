@@ -1,0 +1,16 @@
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\bin\Debug\DataOnImage.exe
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\bin\Debug\DataOnImage.pdb
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.Properties.Resources.resources
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.csproj.GenerateResource.Cache
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.exe
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.pdb
+E:\msf\TestProjects\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.FrmDataOnImage.resources
+D:\msf\pr\DataOnImage\DataOnImage\bin\Debug\DataOnImage.exe
+D:\msf\pr\DataOnImage\DataOnImage\bin\Debug\DataOnImage.pdb
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.csprojAssemblyReference.cache
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.FrmDataOnImage.resources
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.Properties.Resources.resources
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.csproj.GenerateResource.cache
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.csproj.CoreCompileInputs.cache
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.exe
+D:\msf\pr\DataOnImage\DataOnImage\obj\Debug\DataOnImage.pdb
