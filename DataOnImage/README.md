@@ -1,5 +1,5 @@
 # Description
-This program hide text or file data on image.
+This program hide text or file data on image (Steganography).
 
 Saved image format is PNG because it must be lossless.
 
