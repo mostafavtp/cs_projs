@@ -22,3 +22,5 @@ To restore data:
   2. Click on "Read Data From Image" button to save the data file.
   
 That's it.
+
+If the data is confidential then encrypt it (by 7zip, WinRar or ...) before hiding it in image by this program. Because of everyone that has this program can extract the data from the image.
