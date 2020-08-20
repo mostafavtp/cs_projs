@@ -6,7 +6,7 @@ Saved image format is PNG because it must be lossless.
 I save one bit per color. One bit in red, one bit in blue and one bit in green. So I save 3 bits in each pixel.
 Then to save n bytes of data you need (n * 8 / 3 + header_data) Pixels. For example to save 1MB data, you need more than (1 * 1024 * 1024 * 8 / 3) pixels, aproximately 2.8 Mpixel image.
 
-The result image quality is good and the changes is not perceptible.
+The result image quality is good and the changes are not perceptible.
 
 It is simple to use:
 
